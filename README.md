@@ -1,4 +1,4 @@
-# sdk
+# SAT>IP Client sdk
 
 "SAT>IP Client App based on "VLCKit” 
 
