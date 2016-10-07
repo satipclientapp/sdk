@@ -13,8 +13,8 @@ Everything was tested with Xcode 7 on OS X 10.11 only.
 
 How to start:
 
-•	Download the respective framework binary images, unpack and safely store them somewhere on your Mac. 
-•	Open the xcode workspace 
-•	Navigate to either target and fix your Framework Search Paths to have them point to the correct folder on your Mac. 
-•	Compile and run 
+•	Download the respective framework binary images, unpack and safely store them somewhere on your Mac
+•	Open the xcode workspace
+•	Navigate to either target and fix your Framework Search Paths to have them point to the correct folder on your Mac
+•	Compile and run
 
