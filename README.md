@@ -2,7 +2,7 @@
 
 "SAT>IP Client App based on "VLCKit” 
 
-This app is a fully functionnining SAT>IP Client application for tvOS and iOS. 
+This app is a fully functionining SAT>IP Client application for tvOS and iOS. 
 
 It demonstrates the use of VLCKit for tvOS (dubbed TVVLCKit) and iOS (dubbed MobileVLCKit) to discover SAT>IP servers, feed a custom channel list from a m3u file and finally play a TV channel of your choice. Additionally, it gives an introduction to video output view manipulation with VLCKit.
 
